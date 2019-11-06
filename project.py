@@ -1,4 +1,8 @@
 
+def train():
+    print('Train')
+
+
 def car():
     print('Car')
 
@@ -6,6 +10,7 @@ def car():
 def main():
     print('-' * 55)
     car()
+    train()
 
 
 main()
